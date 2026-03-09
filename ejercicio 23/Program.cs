@@ -5,4 +5,4 @@ while (i < 50)
     Console.Write(i + " ");
     i += 3;
 }
-Console.WriteLine("\n\nFin del programa.");
+Console.WriteLine("Fin del programa.");
