@@ -1,0 +1,1 @@
+﻿Console.Write("¿Qué tabla de multiplicar deseas ver?: ");
