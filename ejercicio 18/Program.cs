@@ -1,0 +1,1 @@
+﻿Console.Write("Ingrese un número para calcular su factorial: ");
