@@ -1,0 +1,1 @@
+﻿string claveCorrecta = "admin123";
